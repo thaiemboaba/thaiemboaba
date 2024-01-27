@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil! 😁
+## Olá! Eu sou a Thainá Emboaba, estudante de programação! 😁
 
  <div>
    <a href="https://github.com/thaiemboaba">
